@@ -18,6 +18,10 @@ Output: 3
 Input: nums = [2,2,1,1,1,2,2]
 Output: 2
 
+**Example 3:**
+
+Input: nums = [7, 7, 5, 7, 5, 1, 5, 7, 5, 5, 7, 7, 7, 7, 7]
+Output: 7
 
 ---
 
